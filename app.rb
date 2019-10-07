@@ -4,8 +4,8 @@ class App < Sinatra::Base
 
   get '/name'
     erb :name 
-  end 
-  
+  end
 
-  
+
+
 end
